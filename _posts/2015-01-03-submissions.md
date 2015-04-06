@@ -2,7 +2,7 @@
 title: "Submission"
 bg: orange
 color: white
-style: center
+style: left
 fa-icon: file-text-o
 icon-title: true
 ---
@@ -23,5 +23,7 @@ they need to refer to themselves in the third person, as if they were discussing
 another researcher's work. Furthermore, authors must identify any conflict of
 interest with the PC chair or PC members.
 
+<!--
 Proceedings will be published in both IEEE Xplore and the ACM Digital library
 through collaboration with ACM SIGHPC.
+-->

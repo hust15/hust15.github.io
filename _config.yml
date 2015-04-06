@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "HUST15: Second Workshop on HPC User Support Tools"
 keywords:    "hpc, user, support, tools, build, sc15, hust15, hust, supercomputing"
 description: "Second Workshop on HPC User Support Tools"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/hust15/hust15.github.io"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: #UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
@@ -27,9 +27,29 @@ google_analytics_key: #UA-49607422-1 ## put YOUR key here to enable tracking! (b
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  white:     '#ffffff'
+  blue:      '#2a52be'
+  orange:    '#be962a'
+  red:       '#be4c2a'
+  green:     '#52be2a'
+  purple:    '#be2a52'
+  turquoise: '#2a9cbe
+
+# Dull pastels
+  # black:     '#111111'
+  # white:     '#ffffff'
+  # blue:      '#779ecb'
+  # orange:    '#cba477'
+  # red:       '#cb7a77'
+  # green:     '#9ecb77'
+  # purple:    '#cb779e'
+  # turquoise: '#77c8cb'
+
+# Original Bright colors
+  # black:     '#111111'
+  # white:     '#f8f8f8'
+  # blue:      '#49a7e9'
+  # green:     '#9bcf2f'
+  # purple:    '#c869bf'
+  # orange:    '#fab125'
+  # turquoise: '#0fbfcf'
