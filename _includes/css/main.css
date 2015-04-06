@@ -200,24 +200,24 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider {
-  width:270px;
-  height:270px;
-  padding:15px;
+  width:200px;
+  height:200px;
+  padding:11px;
   position:absolute;
-  top:-135px;
+  top:-100px;
   left:50%;
-  margin-left:-135px;
+  margin-left:-100px;
 }
 
 .sectiondivider img {
   width:200px;
-  height:240px;
+  height:170px;
   position: static;
   margin-top: -20px;
 }
 
 .sectiondivider .fa-stack {
-  font-size: 130px;
+  font-size: 96px;
   position: static;
   margin-top: -8px;
 }
@@ -228,12 +228,12 @@ nav ul li:hover, nav ul li.active {
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
-  bottom:40px;
+  bottom:30px;
   left:auto;
   text-align:center;
   display:block;
   z-index:6;
-  width:240px;
+  width:175px;
 }
 
 .sectiondivider.imaged {
