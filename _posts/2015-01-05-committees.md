@@ -24,4 +24,17 @@ icon-title: true
 
 ## Program Committee
 
-#### TBD
+* Daniel Ahlin, PDC HPC Center, KTH Royal Institute of Technology, Sweden
+* David Bernholdt, Oak Ridge National Laboratory, USA
+* Anthony DiGirolamo, Oak Ridge National Laboratory
+* Scott Futral, Lawrence Livermore National Laboratory, USA
+* Markus Geimer, Juelich Supercomputing Centre, Germany
+* Andy Georges, Ghent University, Belgium
+* James Lin, Center for HPC, Shanghai Jiao Tong University, China
+* Christopher Harris, Pawsey Supercomputing Centre, Australia
+* Olli-Pekka Lehto, CSC - IT Center for Science, Finland
+* John C. Linford, ParaTools, USA
+* Robert McLay, Texas Advanced Computing Center, USA
+* Dave Montoya, Los Alamos National Laboratory, USA
+* Randy Schauer, Army Research Laboratory, USA
+* William Scullin, Argonne National Laboratory, USA
