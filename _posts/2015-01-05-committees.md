@@ -26,6 +26,7 @@ icon-title: true
 
 * Daniel Ahlin, PDC HPC Center, KTH Royal Institute of Technology, Sweden
 * David Bernholdt, Oak Ridge National Laboratory, USA
+* Christopher Bording, Pawsey Supercomputing Centre, Australia
 * Anthony DiGirolamo, Oak Ridge National Laboratory
 * Scott Futral, Lawrence Livermore National Laboratory, USA
 * Markus Geimer, Juelich Supercomputing Centre, Germany
@@ -37,4 +38,5 @@ icon-title: true
 * Robert McLay, Texas Advanced Computing Center, USA
 * Dave Montoya, Los Alamos National Laboratory, USA
 * Randy Schauer, Army Research Laboratory, USA
+* Dane Skow, University of Wyoming, USA
 * William Scullin, Argonne National Laboratory, USA
