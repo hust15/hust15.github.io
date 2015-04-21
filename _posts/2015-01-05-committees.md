@@ -40,6 +40,6 @@ icon-title: true
 * John C. Linford, ParaTools, USA
 * Robert McLay, Texas Advanced Computing Center, USA
 * Dave Montoya, Los Alamos National Laboratory, USA
-* Randy Schauer, Army Research Laboratory, USA
+* Randy Schauer, Raytheon Company, USA
 * Dane Skow, University of Wyoming, USA
 * William Scullin, Argonne National Laboratory, USA
