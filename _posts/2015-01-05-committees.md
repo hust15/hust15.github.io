@@ -28,6 +28,7 @@ icon-title: true
 * David Bernholdt, Oak Ridge National Laboratory, USA
 * Christopher Bording, Pawsey Supercomputing Centre, Australia
 * Anthony DiGirolamo, Oak Ridge National Laboratory, USA
+* Fernanda Foertter, Oak Ridge National Laboratory, USA
 * Scott Futral, Lawrence Livermore National Laboratory, USA
 * Todd Gamblin, Lawrence Livermore National Laboratory, USA
 * Markus Geimer, Juelich Supercomputing Centre, Germany
