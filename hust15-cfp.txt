@@ -1,0 +1,84 @@
+HUST 2015
+====================
+Second Annual Workshop on HPC User Support Tools
+November 20, 2015, Austin, TX, USA.
+Held in conjunction with SC15, in cooperation with SIGHPC.
+http://hust15.github.io/
+
+
+Call For Papers
+--------------------
+Supercomputing centers exist to drive scientific discovery by
+supporting researchers in computational science fields. To make users
+more productive in the complex HPC environment, HPC centers employ
+user support teams. These teams serve many roles, from setting up
+accounts, to consulting on math libraries and code optimization, to
+managing HPC software stacks. Adequately supporting scientists can
+often be a struggle for the support teams. HPC environments are
+extremely complex, and combined with the complexity of multi-user
+installations, exotic hardware, and maintaining research software,
+supporting HPC users can be extremely demanding. Meeting all of these
+competing demands of the scientist often results in the creation of
+new tools and establishment of new policies and best practices.
+
+With the second HUST workshop, we will continue to provide a necessary
+forum for system administrators, user support team members, tool
+developers, policy makers and end users to discuss support issues. We
+solicit papers on user support experiences, best practices, tools, and
+any efforts to streamline support at supercomputing centers.
+
+
+Topics of Interest
+--------------------
+Topics of interest include, but are not limited to:
+
+  * Defining and customising the user environment
+  * Software build and installation tools
+  * Tools and frameworks for using performance analysis tools
+  * Workflow and pipeline tools
+  * Collaboration tools
+  * Novel environments: cloud, etc.
+  * Tools and frameworks for supporting Hadoop and Big Data
+  * Establishing baseline configuration efforts for HPC
+  * Software development/system testing
+  * Documentation: creating, maintaining and updating
+
+
+We invite authors to submit original, high-quality work with
+sufficient background material to be clear to the HPC
+community. Papers should be submitted in PDF format and should not
+exceed 10 pages including tables, figures and appendices, but
+excluding references. They should be formatted according to the ACM
+SIG Proceedings format. Similar to the SC15 policy, margins and font
+sizes should not be modified. We kindly refer authors to the necessary
+templates.
+
+All submissions should be made electronically through the EasyChair
+website. Submissions must be double blind, i.e., authors should remove
+their names, institutions or hints found in references to earlier
+work. When discussing past work, they need to refer to themselves in
+the third person, as if they were discussing another researcher’s
+work. Furthermore, authors must identify any conflict of interest with
+the PC chair or PC members.
+
+Proceedings will be published in both IEEE Xplore and the ACM Digital
+library through collaboration with ACM SIGHPC.
+
+
+Important Dates
+--------------------
+  * Submission deadline: August 7
+  * Workshop paper reviews due: September 21
+  * Acceptance notifications: October 1
+  * Camera-ready papers: October 8
+  * Workshop: November 20, at SC15. 8:30AM - 12:00PM.
+
+
+More Information
+--------------------
+Further details, as well as a link to the submission site, can be
+found at the HUST'15 website:
+
+  http://hust15.github.io/
+
+Also, be sure to visit the SC15 site at http://sc15.supercomputing.org
