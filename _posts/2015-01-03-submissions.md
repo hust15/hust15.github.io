@@ -27,9 +27,11 @@ Proceedings will be published in both IEEE Xplore and the ACM Digital library
 through collaboration with ACM SIGHPC.
 
 <div style="text-align:center;">
-  <span style="font-size:28px;">
-    <a href="https://easychair.org/conferences/?conf=hust15">
-      <i class="fa fa-sign-in fa-stack-1x">&nbsp;<b>Click here to submit.</b></i>
-    </a>
-  </span>
+  <p>
+    <span style="font-size:20px;">
+      <a href="https://easychair.org/conferences/?conf=hust15">
+        <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
+      </a>
+    </span>
+  </p>
 </div>
