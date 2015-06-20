@@ -1,8 +1,8 @@
 HUST 2015
 ====================
 Second Annual Workshop on HPC User Support Tools
-November 20, 2015, Austin, TX, USA.
 Held in conjunction with SC15, in cooperation with SIGHPC.
+November 20, 2015, Austin, TX, USA.
 http://hust15.github.io/
 
 
