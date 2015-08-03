@@ -1,5 +1,4 @@
 
 
-This site uses the [SinglePaged theme](https://github.com/t413/SinglePaged).
-&mdash;
-This site is [open source]({{ site.source_link }}).
+Please email <a href="mailto:hust15@easychair.org">hust15@easychair.org</a>
+with questions or concerns.

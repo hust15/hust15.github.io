@@ -1,5 +1,7 @@
 HUST 2015
 ====================
+DEADLINE EXTENDED TO AUGUST 14.
+
 Second Annual Workshop on HPC User Support Tools
 Held in conjunction with SC15, in cooperation with SIGHPC.
 November 20, 2015, Austin, TX, USA.
@@ -67,7 +69,7 @@ library through collaboration with ACM SIGHPC.
 
 Important Dates
 --------------------
-  * Submission deadline: August 7
+  * Submission deadline: August 14
   * Workshop paper reviews due: September 21
   * Acceptance notifications: October 1
   * Camera-ready papers: October 8
